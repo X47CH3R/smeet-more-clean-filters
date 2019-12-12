@@ -20,7 +20,6 @@
 
 ! >>>> smeet.com <<<< !
 
-||c00s.com*bank*sitzbar*$domain=smeet.com
 ||c00s.com*cashmachine*$domain=smeet.com
 ||c00s.com/*/*/*/*/*/COUNTER/HLO/*/UR_INT_HLO_*/*$domain=smeet.com
 
