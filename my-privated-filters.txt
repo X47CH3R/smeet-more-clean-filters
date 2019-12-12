@@ -22,12 +22,19 @@
 
 ||cloudfront.net*FreeCoins*$domain=smeet.com
 ||cloudfront.net*NPC*$domain=smeet.com
+||c00s.com*NPC*$domain=smeet.com
+||c00s.com*npc*$domain=smeet.com
 ||c00s.com*FINDABLE_OBJECTS*$domain=smeet.com
 ||c00s.com*FramePoints*$domain=smeet.com
 ||c00s.com*MUSICALBOX2019*$domain=smeet.com
+||c00s.com*SNOW2019*$domain=smeet.com
 ||c00s.com*CashMachineWall*$domain=smeet.com
 ||c00s.com*CashMachineStand*$domain=smeet.com
 ||c00s.com*more_freecoins*$domain=smeet.com
+||c00s.com*freecoins*$domain=smeet.com
+||c00s.com*retentionjobs*$domain=smeet.com
+||c00s.com*RetentionJob*$domain=smeet.com
+||c00s.com*FreeCoinsTeam*$domain=smeet.com
 ||c00s.com*UR_DEC_MIS_Love_Fountain_red*$domain=smeet.com
 
 ! >>>> smeet.com ( fix bug )<<<< !
