@@ -29,4 +29,6 @@
 
 ! >>>> smeet.com ( fix bug )<<<< !
 
+@@||c00s.com*Trigger*$domain=smeet.com
+
 ! ----------------------------------- SMEET FILTRAGE FIN ----------------------------------- !
