@@ -1,0 +1,27 @@
+! Title: my privated filters sMeet
+! Author: papypoutine | {@R!s TechCor}
+! Version: 1.0
+! Expires: N/A
+! License: N/A
+! Homepage: N/A
+! Contact: N/A
+! Support: N/A
+! Contribution: N/A
+
+! ---------------------------------- SMEET FILTRAGE DEBUT ---------------------------------- !
+
+! Les lignes débutant par ‘!’ seront ignorées
+! type = objet (exemple swf, mp3)
+! domain = yoursite.com (domaine site web)
+! important = bloque même s'il existe une exception
+! * = bloque tout caractère aléatoire avant ou après
+! $ = séparateur entre chaque filtre de bloquage/autorisation
+! @@ = autorise tout
+
+! >>>> smeet.com <<<< !
+
+||c00s.com*bank*sitzbar*$domain=smeet.com
+||c00s.com*cashmachine*$domain=smeet.com
+||c00s.com/*/*/*/*/*/COUNTER/HLO/*/UR_INT_HLO_*/*$domain=smeet.com
+
+! ----------------------------------- SMEET FILTRAGE FIN ----------------------------------- !
