@@ -27,7 +27,7 @@
 ||c00s.com*MUSICALBOX2019*$domain=smeet.com
 ||c00s.com*CashMachineWall*$domain=smeet.com
 ||c00s.com*CashMachineStand*$domain=smeet.com
-||c00s.com*more_freecoins_*$domain=smeet.com
+||c00s.com*more_freecoins*$domain=smeet.com
 
 ! >>>> smeet.com ( fix bug )<<<< !
 
