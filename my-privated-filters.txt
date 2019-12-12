@@ -21,11 +21,10 @@
 ! >>>> smeet.com <<<< !
 
 ||cloudfront.net*MoreFreeCoins*$domain=smeet.com
-||c00s.com/*/*/*/*/*/FINDABLE_OBJECTS/*/*$domain=smeet.com
-||c00s.com/orep/object/Catalog/World/Objects/COUNTER/HLO/MUSICALBOX2019/*$domain=smeet.com
-||c00s.com/orep/object/Catalog/World/Objects/00_smeetworld/flash/cashmachine2011/CashMachineWall/*$domain=smeet.com
-||c00s.com/orep/object/Catalog/World/Objects/00_smeetworld/flash/cashmachine2011/CashMachineStand/*$domain=smeet.com
-||c00s.com/orep/object/Catalog/World/Objects/00_smeetworld/flash/cashmachine2011/CashMachineStand/*/*$domain=smeet.com
+||c00s.com*FINDABLE_OBJECTS*$domain=smeet.com
+||c00s.com*MUSICALBOX2019*$domain=smeet.com
+||c00s.com*CashMachineWall*$domain=smeet.com
+||c00s.com*CashMachineStand*$domain=smeet.com
 
 ! >>>> smeet.com ( fix bug )<<<< !
 
