@@ -26,7 +26,7 @@
 
 ! >>>> smeet.com ( fix bug )<<<< !
 
-@@||c00s.com/*/*/*/*/*/COUNTER/HLO/FirstRoom_*/UR_INT_HLO_TRA_*/*$domain=smeet.com
+@@||c00s.com/*/*/*/*/*/COUNTER/HLO/FirstRoom_*/UR_INT_HLO_*/*$domain=smeet.com
 @@||c00s.com/*/*/*/*/*/COUNTER/HLO/HLO_ITEMS/UR_INT_HLO_TRA_*/*$domain=smeet.com
 @@||c00s.com/*/*/*/*/*/COUNTER/HLO/HLO_PLANTS/UR_INT_HLO_TRA_*/*$domain=smeet.com
 
