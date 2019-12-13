@@ -38,6 +38,7 @@
 ||c00s.com*UR_DEC_MIS_Love_Fountain_red*$domain=smeet.com
 ||c00s.com*Pfeile*$domain=smeet.com
 ||c00s.com*MINIGAMES*$domain=smeet.com
+||c00s.com*Flaggen*$domain=smeet.com
 
 ! >>>> smeet.com ( fix bug )<<<< !
 
