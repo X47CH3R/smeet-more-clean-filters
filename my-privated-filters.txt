@@ -39,6 +39,7 @@
 ||c00s.com*Pfeile*$domain=smeet.com
 ||c00s.com*MINIGAMES*$domain=smeet.com
 ||c00s.com*Flaggen*$domain=smeet.com
+||c00s.com*DECORATION*Ballon*PUBLIC_ROOM*$domain=smeet.com
 
 ! >>>> smeet.com ( fix bug )<<<< !
 
