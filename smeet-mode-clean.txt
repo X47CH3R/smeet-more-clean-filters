@@ -18,7 +18,7 @@
 ! $ = séparateur entre chaque filtre de bloquage/autorisation
 ! @@ = autorise tout
 
-! >>>> smeet.com <<<< !
+! >>>> ( smeet.com ) <<<< !
 
 ||cloudfront.net*FreeCoins*$domain=smeet.com
 ||cloudfront.net*NPC*$domain=smeet.com
@@ -41,5 +41,18 @@
 ||c00s.com*Flaggen*$domain=smeet.com
 ||c00s.com*DECORATION*Ballon*PUBLIC_ROOM*$domain=smeet.com
 ||c00s.com*buyable_Avatar_Objects*$domain=smeet.com
+
+! >>>> ( block hide iframe by smeet.com ) <<<< !
+
+fr.smeet.com##div#fb-root.fb_reset
+fr.smeet.com##iframe#adIframe[src^="//de.smeet.com/smeet-web/partner/soiTrackingPixel.do"]
+fr.smeet.com##div#sponsorpay
+fr.smeet.com##iframe#iFrameVideoOffers
+fr.smeet.com##div#popupHint
+fr.smeet.com##div#sponsorPayVideoHolder
+fr.smeet.com##iframe#roomServiceNotifier[src="about:blank"]
+fr.smeet.com##iframe#userMessagingNotifier[src="about:blank"]
+fr.smeet.com##div#fb-root.fb_reset > div
+fr.smeet.com##div#fb-root.fb_reset > div > div
 
 ! ----------------------------------- SMEET FILTRAGE FIN ----------------------------------- !
