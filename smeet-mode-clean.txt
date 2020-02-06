@@ -1,11 +1,11 @@
-! Title: my privated filters sMeet
+! Title: sMeet mode clean
 ! Author: papypoutine | {@R!s TechCor}
 ! Version: 1.0
-! Expires: N/A
+! Expires: 1 hour
 ! License: N/A
-! Homepage: N/A
-! Contact: N/A
-! Support: N/A
+! Homepage: smeet.com
+! Contact: X47CH3R#0173 {discord}
+! Support: aristechcor-b.tech@outlook.com
 ! Contribution: N/A
 
 ! ---------------------------------- SMEET FILTRAGE DEBUT ---------------------------------- !
@@ -41,10 +41,5 @@
 ||c00s.com*Flaggen*$domain=smeet.com
 ||c00s.com*DECORATION*Ballon*PUBLIC_ROOM*$domain=smeet.com
 ||c00s.com*buyable_Avatar_Objects*$domain=smeet.com
-
-! >>>> smeet.com ( fix bug )<<<< !
-
-@@||c00s.com*Trigger*$domain=smeet.com
-@@||paymentwall.com*$domain=smeet.com
 
 ! ----------------------------------- SMEET FILTRAGE FIN ----------------------------------- !
