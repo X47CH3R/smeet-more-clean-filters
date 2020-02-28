@@ -41,12 +41,21 @@
 ||c00s.com*Flaggen*$domain=smeet.com
 ||c00s.com*DECORATION*Ballon*PUBLIC_ROOM*$domain=smeet.com
 ||c00s.com*buyable_Avatar_Objects*$domain=smeet.com
+||cloudfront.net*clickTag=action://*$domain=smeet.com
 
-! >>>> ( Fix bug for buy object room and shop  to smeet.com ) <<<< !
+! >>>> ( Some Ads and Trackings ) <<<< !
+
+||c00s.com*468x60_*$domain=smeet.com
+||c00s.com*120x240_*$domain=smeet.com
+||tradedoubler.com*$domain=smeet.com
+||c00s.com*300x250_*$domain=smeet.com
+
+! >>>> ( Fix bug for buy/chooser object room privated and shop to smeet.com ) <<<< !
 
 @@||c00s.com/orep/object/Properties/ads/4*$domain=smeet.com
 @@||cloudfront.net/*/*/*/*/*.swf?clickTag=action://openShop/FURNITURE/theme:*$domain=smeet.com
 @@||c00s.com/orep/resource/Products/preview/*/*.swf/*.swf*$domain=smeet.com
 @@||c00s.com/orep/resource/Products/preview/*/*.swf/*.png*$domain=smeet.com
+@@||c00s.com*roomchooser*$domain=smeet.com
 
 ! ----------------------------------- SMEET FILTRAGE FIN ----------------------------------- !
