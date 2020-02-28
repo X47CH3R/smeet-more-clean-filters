@@ -1,6 +1,6 @@
 ! Title: sMeet mode clean
 ! Author: papypoutine | {@R!s TechCor}
-! Version: 1.0
+! Version: 1.2b
 ! Expires: 1 hour
 ! License: N/A
 ! Homepage: smeet.com
@@ -41,5 +41,12 @@
 ||c00s.com*Flaggen*$domain=smeet.com
 ||c00s.com*DECORATION*Ballon*PUBLIC_ROOM*$domain=smeet.com
 ||c00s.com*buyable_Avatar_Objects*$domain=smeet.com
+
+! >>>> ( Fix bug for buy object room and shop  to smeet.com ) <<<< !
+
+@@||c00s.com/orep/object/Properties/ads/4*$domain=smeet.com
+@@||cloudfront.net/*/*/*/*/*.swf?clickTag=action://openShop/FURNITURE/theme:*$domain=smeet.com
+@@||c00s.com/orep/resource/Products/preview/*/*.swf/*.swf*$domain=smeet.com
+@@||c00s.com/orep/resource/Products/preview/*/*.swf/*.png*$domain=smeet.com
 
 ! ----------------------------------- SMEET FILTRAGE FIN ----------------------------------- !
