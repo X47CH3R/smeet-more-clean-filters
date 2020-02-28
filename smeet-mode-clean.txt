@@ -57,5 +57,6 @@
 @@||c00s.com/orep/resource/Products/preview/*/*.swf/*.swf*$domain=smeet.com
 @@||c00s.com/orep/resource/Products/preview/*/*.swf/*.png*$domain=smeet.com
 @@||c00s.com*roomchooser*$domain=smeet.com
+@@||c00s.com*badge*$domain=smeet.com
 
 ! ----------------------------------- SMEET FILTRAGE FIN ----------------------------------- !
