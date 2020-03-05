@@ -1,6 +1,6 @@
 ! Title: sMeet mode clean
 ! Author: papypoutine | {@R!s TechCor}
-! Version: 1.2b
+! Version: 1.2.5
 ! Expires: 1 hour
 ! License: N/A
 ! Homepage: smeet.com
@@ -8,15 +8,15 @@
 ! Support: aristechcor-b.tech@outlook.com
 ! Contribution: N/A
 
-! ---------------------------------- SMEET FILTRAGE DEBUT ---------------------------------- !
+! ---------------------------------- SMEET FILTERING START ---------------------------------- !
 
-! Les lignes débutant par ‘!’ seront ignorées
-! type = objet (exemple swf, mp3)
-! domain = yoursite.com (domaine site web)
-! important = bloque même s'il existe une exception
-! * = bloque tout caractère aléatoire avant ou après
-! $ = séparateur entre chaque filtre de bloquage/autorisation
-! @@ = autorise tout
+! lines starting with ‘!’ will be ignored
+! type = object (example swf, mp3)
+! domain = yoursite.com (domain site web)
+! important = blocks even if there is an exception
+! * = blocks any randomness before or after
+! $ = separator between each blocking and authorization filter
+! @@ = authorize everything
 
 ! >>>> ( smeet.com ) <<<< !
 
@@ -58,4 +58,4 @@
 @@||c00s.com*roomchooser*$domain=smeet.com
 @@||c00s.com*badge*$domain=smeet.com
 
-! ----------------------------------- SMEET FILTRAGE FIN ----------------------------------- !
+! ----------------------------------- SMEET FILTERING END ----------------------------------- !
