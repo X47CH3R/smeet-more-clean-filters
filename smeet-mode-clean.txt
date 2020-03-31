@@ -1,8 +1,8 @@
 ! Title: sMeet mode clean
 ! Author: papypoutine | {@R!s TechCor}
-! Version: 1.2.5
+! Version: 1.2.6
 ! Expires: 1 hour
-! License: N/A
+! License: @R!s TechCor {Beyond Technology}
 ! Homepage: smeet.com
 ! Contact: X47CH3R#0173 {discord}
 ! Support: aristechcor-b.tech@outlook.com
@@ -57,5 +57,9 @@
 @@||c00s.com/orep/resource/Products/preview/*/*.swf/*.png*$domain=smeet.com
 @@||c00s.com*roomchooser*$domain=smeet.com
 @@||c00s.com*badge*$domain=smeet.com
+
+! >>>> ( Fix bug for Garden in Flowers (Calendar 04/2020) objects room privated and shop to smeet.com ) <<<< !
+
+@@||c00s.com/orep/object/Properties/minigames/4.1572273434081$domain=smeet.com
 
 ! ----------------------------------- SMEET FILTERING END ----------------------------------- !
