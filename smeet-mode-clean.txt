@@ -51,7 +51,7 @@
 ! >>>> ( Fix bug for buy/chooser object room privated and shop to smeet.com ) <<<< !
 
 @@||c00s.com/orep/object/Properties/ads/4.*$domain=smeet.com
-@@||In-World-Banner/All*.swf?clickTag=action://openShop/FURNITURE/theme:farm:/theme:*$domain=smeet.com
+@@||cloudfront.net/In-World-Banner/All/*/*/*.swf?clickTag=action://openShop/FURNITURE/theme:farm:/theme:*$domain=smeet.com
 @@||c00s.com*roomchooser*$domain=smeet.com
 
 ! >>>> ( Fix bug for Garden in Flowers (Calendar 04/2020) objects room privated and shop to smeet.com ) <<<< !
