@@ -56,6 +56,7 @@
 @@||cloudfront.net/In-World-Banner/All/Shop_Verlinkungen/*/*.swf?clickTag=action://openShop/FURNITURE/theme:*$object,domain=smeet.com
 @@||cloudfront.net/In-World-Banner/All/Shop_Verlinkungen/*.swf?clickTag=action://openShop/FURNITURE/theme:farm:/theme:*$object,domain=smeet.com
 @@||c00s.com*roomchooser*$domain=smeet.com
+@@||amazonaws.com/files.smeet.com/In-World-Banner/All/Shop_Verlinkungen/*/*.swf?clickTag=action://openShop/FURNITURE/theme:farm:/theme:*$object,domain=smeet.com
 
 ! >>>> ( Fix bug for Garden in Flowers (Calendar 04/2020) objects room privated and shop to smeet.com ) <<<< !
 
