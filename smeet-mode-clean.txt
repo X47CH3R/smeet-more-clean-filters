@@ -51,6 +51,7 @@
 ! >>>> ( Fix bug for buy/chooser object room privated and shop to smeet.com ) <<<< !
 
 @@||Properties/ads/4*$domain=smeet.com
+@@||c00s.com/orep/object/Properties/ads/4.*$domain=smeet.com
 @@||clickTag=action://openShop/FURNITURE/*$domain=smeet.com
 @@||Products/preview/*/*.swf/*.swf*$domain=smeet.com
 @@||Products/preview/*/*.swf/*.png*$domain=smeet.com
