@@ -53,44 +53,7 @@
 @@||Properties/ads/4*$domain=smeet.com
 @@||c00s.com/orep/object/Properties/ads/4.*$domain=smeet.com
 @@||clickTag=action://openShop/FURNITURE/*$domain=smeet.com
-@@||Products/preview/*/*.swf/*.swf*$domain=smeet.com
-@@||Products/preview/*/*.swf/*.png*$domain=smeet.com
-@@||.properties$domain=smeet.com
-@@||smeet.com*messagebroker/amf-https$1p
-@@||DMZAdapter.swf$domain=smeet.com
 @@||c00s.com*roomchooser*$domain=smeet.com
-
-! >>>> ( Optimize experience on smeet.com ) <<<< !
-
-@@||c00s.com*badge*$domain=smeet.com
-@@||SmeetShell.swf$domain=smeet.com
-@@||User/*/*/*/Images/small.jpg*$domain=smeet.com
-@@||User/*/*/*/Images/large.jpg.*$domain=smeet.com
-@@||User/*/*/*/Pets/*/swf/*.swf$domain=smeet.com
-@@||UserTask/TaskTeaser/*$domain=smeet.com
-@@||c1/*/*/*/*/*.png$domain=smeet.com
-@@||User/*/*/*/Rooms/0-*-0/Room.*$domain=smeet.com
-@@||User/*/*/*/AvatarDescription.*$domain=smeet.com
-@@||bootstrap.ctz$domain=smeet.com
-@@||version.txt$domain=smeet.com
-@@||User/*/*/*/Background/AvatarContext*$domain=smeet.com
-@@||User*Avatars/Mobile/*/thumb/*.png$domain=smeet.com
-@@||AvatarConfig.*$domain=smeet.com
-@@||SelectedTemplates.*$domain=smeet.com
-@@||RoomTemplates*$domain=smeet.com
-@@||c00s.com/orep/resource/Products/preview/*.png*$domain=smeet.com
-@@||mysmeet.com/User/*/*/*/Avatars/Mobile/*/swf/*.swf$domain=smeet.com
-@@||COUNTER/HLO*$domain=smeet.com
-@@||SmeetFlexModuleShopWorld.swf$domain=smeet.com
-@@||SmeetFlexModuleShopAvatar.swf$domain=smeet.com
-@@||SmeetFlexModuleGroups.swf$domain=smeet.com
-@@||SmeetFlexModuleBilling.swf$domain=smeet.com
-@@||SmeetFlexModuleYoutube.swf$domain=smeet.com
-@@||SmeetFlexModuleShopAvatar.swf$domain=smeet.com
-@@||cloudfront.net/InGamePromotion/*/*/room/*.jpg$domain=smeet.com
-@@||youtube.com*$domain=smeet.com
-@@||*google.com*$domain=smeet.com
-@@||AvatarInfoObjects*$domain=smeet.com
 
 ! >>>> ( Fix bug for Garden in Flowers (Calendar 04/2020) objects room privated and shop to smeet.com ) <<<< !
 
