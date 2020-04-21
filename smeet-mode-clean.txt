@@ -8,7 +8,7 @@
 ! Support: aristechcor-b.tech@outlook.com
 ! Contribution: N/A
 
-! ---------------------------------- SMEET FILTERING START ---------------------------------- !
+! ----------------------------------- SMEET FILTERING START ----------------------------------- !
 
 ! lines starting with ‘!’ will be ignored
 ! type = object (example swf, mp3)
@@ -58,4 +58,4 @@
 
 @@||c00s.com/orep/object/Properties/minigames/4.1572273434081$domain=smeet.com
 
-! ----------------------------------- SMEET FILTERING END ----------------------------------- !
+! ------------------------------------ SMEET FILTERING END ------------------------------------ !
