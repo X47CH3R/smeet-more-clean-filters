@@ -86,7 +86,6 @@
 @@||SmeetFlexModuleBilling.swf$domain=smeet.com
 @@||SmeetFlexModuleYoutube.swf$domain=smeet.com
 @@||SmeetFlexModuleShopAvatar.swf$domain=smeet.com
-
 @@||cloudfront.net/InGamePromotion/*/*/room/*.jpg$domain=smeet.com
 @@||youtube.com*$domain=smeet.com
 @@||*google.com*$domain=smeet.com
