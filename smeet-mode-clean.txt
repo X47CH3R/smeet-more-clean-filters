@@ -47,6 +47,9 @@
 ||tradedoubler.com*$domain=smeet.com
 ||c00s.com*300x250_*$domain=smeet.com
 ||c00s.com*728x90_*$domain=smeet.com
+||amazonaws.com/*125x125*$domain=smeet.com
+||c00s.com*125x125_*$domain=smeet.com
+||c00s.com*_Banner*$domain=smeet.com
 
 ! >>>> ( Fix bug for buy/chooser object room privated and shop to smeet.com ) <<<< !
 
