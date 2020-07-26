@@ -39,6 +39,7 @@
 ||c00s.com*Flaggen*$domain=smeet.com
 ||c00s.com*DECORATION*Ballon*PUBLIC_ROOM*$domain=smeet.com
 ||c00s.com*buyable_Avatar_Objects*$domain=smeet.com
+||c00s.com*Lemonade2020*$domain=smeet.com
 
 ! >>>> ( Some Ads and Trackings ) <<<< !
 
@@ -47,9 +48,10 @@
 ||tradedoubler.com*$domain=smeet.com
 ||c00s.com*300x250_*$domain=smeet.com
 ||c00s.com*728x90_*$domain=smeet.com
-!||amazonaws.com/*125x125*$domain=smeet.com
-!||c00s.com*125x125_*$domain=smeet.com
-!||c00s.com*_Banner*$domain=smeet.com
+||amazonaws.com/*125x125*$domain=smeet.com
+||c00s.com*125x125_*$domain=smeet.com
+||c00s.com*_Banner*$domain=smeet.com
+||c00s.com*ur_roomchooser_*_color*$domain=smeet.com
 
 ! >>>> ( Fix bug for buy/chooser object room privated and shop to smeet.com ) <<<< !
 
