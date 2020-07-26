@@ -18,7 +18,7 @@
 ! $ = separator between each blocking and authorization filter
 ! @@ = authorize everything
 
-! >>>> ( smeet.com ) <<<< !
+!  >>>> ( smeet.com ) <<<<  !
 
 ||cloudfront.net*FreeCoins*$domain=smeet.com
 ||cloudfront.net*NPC*$domain=smeet.com
