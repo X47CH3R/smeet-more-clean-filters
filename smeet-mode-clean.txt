@@ -39,7 +39,6 @@
 ||c00s.com*Flaggen*$domain=smeet.com
 ||c00s.com*DECORATION*Ballon*PUBLIC_ROOM*$domain=smeet.com
 ||c00s.com*buyable_Avatar_Objects*$domain=smeet.com
-||c00s.com*Lemonade2020*$domain=smeet.com
 
 ! >>>> ( Some Ads and Trackings ) <<<< !
 
