@@ -48,7 +48,11 @@
 ||c00s.com*300x250_*$domain=smeet.com
 ||c00s.com*728x90_*$domain=smeet.com
 
-! >>>> ( Fix bug for buy/chooser object room privated and shop to smeet.com ) <<<< !
+! >>>> ( Fix notification enable flashplayer ) <<<< !
+
+||www.smeet.com/flashdisabled$subdocument
+
+! >>>> ( Fix bug for buy/chooser object room privated and shop ) <<<< !
 
 @@||c00s.com/orep/object/Properties/ads/4.*$domain=smeet.com
 @@||cloudfront.net/In-World-Banner/All/*/*/*.swf?clickTag=action://openShop/FURNITURE/theme:farm:/theme:*$object,domain=smeet.com
