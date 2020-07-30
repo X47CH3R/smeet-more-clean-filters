@@ -39,6 +39,9 @@
 ||c00s.com*Flaggen*$domain=smeet.com
 ||c00s.com*DECORATION*Ballon*PUBLIC_ROOM*$domain=smeet.com
 ||c00s.com*buyable_Avatar_Objects*$domain=smeet.com
+||c00s.com*Lemonade2020*SE.1588864030544$domain=smeet.com
+||c00s.com*BUYABLE_OBJECTS*UR_BO_Dance_Sirtaki*S.1367250048857$domain=smeet.com
+||c00s.com*Astroshooter*$domain=smeet.com
 
 ! >>>> ( Some Ads and Trackings ) <<<< !
 
