@@ -1,6 +1,6 @@
 ! Title: sMeet mode clean
 ! Author: papypoutine | {@R!s TechCor}
-! Version: 1.2.6
+! Version: 1.2.7
 ! Expires: 1 hour
 ! License: @R!s TechCor {Beyond Technology}
 ! Homepage: smeet.com
@@ -24,7 +24,6 @@
 ||cloudfront.net*NPC*$domain=smeet.com
 ||c00s.com*NPC*$domain=smeet.com
 ||c00s.com*npc*$domain=smeet.com
-||c00s.com*FramePoints*$domain=smeet.com
 ||c00s.com*CashMachineWall*$domain=smeet.com
 ||c00s.com*CashMachineStand*$domain=smeet.com
 ||c00s.com*more_freecoins*$domain=smeet.com
@@ -41,13 +40,5 @@
 ||c00s.com*Lemonade2020*SE.1588864030544$domain=smeet.com
 ||c00s.com*BUYABLE_OBJECTS*UR_BO_Dance_Sirtaki*S.1367250048857$domain=smeet.com
 ||c00s.com*Astroshooter*$domain=smeet.com
-
-! >>>> ( Some Ads and Trackings ) <<<< !
-
-||c00s.com*468x60_*$domain=smeet.com
-||c00s.com*120x240_*$domain=smeet.com
-||tradedoubler.com*$domain=smeet.com
-||c00s.com*300x250_*$domain=smeet.com
-||c00s.com*728x90_*$domain=smeet.com
 
 ! ------------------------------------ SMEET FILTERING END ------------------------------------ !
