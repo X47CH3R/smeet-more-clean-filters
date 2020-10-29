@@ -1,6 +1,6 @@
 ! Title: sMeet mode clean
 ! Author: papypoutine | {@R!s TechCor}
-! Version: 1.2.7
+! Version: 1.2.8
 ! Expires: 1 hour
 ! License: @R!s TechCor {Beyond Technology}
 ! Homepage: smeet.com
@@ -20,22 +20,14 @@
 
 !  >>>> ( smeet.com ) <<<<  !
 
-||cloudfront.net*FreeCoins*$domain=smeet.com
 ||cloudfront.net*NPC*$domain=smeet.com
 ||c00s.com*NPC*$domain=smeet.com
 ||c00s.com*npc*$domain=smeet.com
-||c00s.com*CashMachineWall*$domain=smeet.com
-||c00s.com*CashMachineStand*$domain=smeet.com
-||c00s.com*more_freecoins*$domain=smeet.com
-||c00s.com*freecoins*$domain=smeet.com
 ||c00s.com*retentionjobs*$domain=smeet.com
 ||c00s.com*RetentionJob*$domain=smeet.com
 ||c00s.com*FreeCoinsTeam*$domain=smeet.com
-||c00s.com*UR_DEC_MIS_Love_Fountain_red*$domain=smeet.com
-||c00s.com*Pfeile*$domain=smeet.com
 ||c00s.com*MINIGAMES*$domain=smeet.com
 ||c00s.com*Flaggen*$domain=smeet.com
-||c00s.com*DECORATION*Ballon*PUBLIC_ROOM*$domain=smeet.com
 ||c00s.com*buyable_Avatar_Objects*$domain=smeet.com
 ||c00s.com*Lemonade2020*SE.1588864030544$domain=smeet.com
 ||c00s.com*BUYABLE_OBJECTS*UR_BO_Dance_Sirtaki*S.1367250048857$domain=smeet.com
