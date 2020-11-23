@@ -1,0 +1,36 @@
+! Title: sMeet mode clean
+! Author: papypoutine | {@R!s TechCor}
+! Version: 1.2.8
+! Expires: 1 hour
+! License: @R!s TechCor {Beyond Technology}
+! Homepage: smeet.com
+! Contact: X47CH3R#0173 {discord}
+! Support: aristechcor-b.tech@outlook.com
+! Contribution: N/A
+
+! ----------------------------------- SMEET FILTERING START ----------------------------------- !
+
+! lines starting with ‘!’ will be ignored
+! type = object (example swf, mp3)
+! domain = yoursite.com (domain site web)
+! important = blocks even if there is an exception
+! * = blocks any randomness before or after
+! $ = separator between each blocking and authorization filter
+! @@ = authorize everything
+
+!  >>>> ( smeet.com ) <<<<  !
+
+||cloudfront.net*NPC*$third-party
+||c00s.com*NPC*$third-party
+||c00s.com*npc*$third-party
+||c00s.com*retentionjobs*$third-party
+||c00s.com*RetentionJob*$third-party
+||c00s.com*FreeCoinsTeam*$third-party
+||c00s.com*MINIGAMES*$third-party
+||c00s.com*Flaggen*$third-party
+||c00s.com*buyable_Avatar_Objects*$third-party
+||c00s.com*Lemonade2020*SE.1588864030544$third-party
+||c00s.com*BUYABLE_OBJECTS*UR_BO_Dance_Sirtaki*S.1367250048857$third-party
+||c00s.com*Astroshooter*$third-party
+
+! ------------------------------------ SMEET FILTERING END ------------------------------------ !
